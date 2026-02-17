@@ -1,0 +1,10 @@
+2026-02-13 10:15:23 INFO User logged in
+2026-02-13 10:16:10 ERROR Database connection failed
+2026-02-13 10:17:45 WARNING Disk space low
+2026-02-13 10:18:05 ERROR Timeout occurred
+2026-02-13 10:19:10 INFO User logged out
+2026-02-13 10:20:12 DEBUG Debugging session started
+2026-02-13 10:21:45 INFO User updated profile
+2026-02-13 10:22:10 ERROR File upload failed
+2026-02-13 10:23:55 WARNING High memory usage
+
